@@ -2,7 +2,7 @@
 #
 # docker build -t sequenceiq/hadoop .
 
-FROM sequenceiq/pam:centos-6.5
+FROM tianon/centos:6.5
 MAINTAINER SequenceIQ
 
 USER root
